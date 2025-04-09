@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Корт на Воробьевых Горах",
     "address": "ул. Воробьевых Горы, 10",
-    "image": "/images/court1.jpg",
+    "image": "public/images/court1.jpg",
     "rating": 4.5,
     "slots": ["10:00", "12:00", "14:00"]
   },
