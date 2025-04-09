@@ -11,7 +11,7 @@
     "id": 2,
     "name": "Теннис Парк",
     "address": "ул. Мантулинская, 20",
-    "image": "/images/court2.jpg",
+    "image": "public/images/court2.jpg",
     "rating": 4.3,
     "slots": ["11:00", "13:00", "15:00"]
   }
